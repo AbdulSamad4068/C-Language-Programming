@@ -1,0 +1,117 @@
+Task 01
+basic programs c language exercise
+
+1. Write a C program to enter two numbers and find their sum.
+out put:
+Enter any two numbers : 12 20
+Sum of 12 and 20 = 32
+
+2. Write a C program to enter two numbers and perform all arithmetic operations.
+out put:
+Enter any two numbers : 20 10
+SUM = 30
+DIFFERENCE = 10
+PRODUCT = 200
+QUOTIENT = 2.000000
+MODULUS = 0
+
+3. Write a C program to enter length and breadth of a rectangle and find its perimeter.
+hint:
+Perimeter of rectangle is given by the below formula
+Perimeter of rectangle = 2(l + w)
+Where l is length and w is the width of rectangle.
+out put:
+Enter length of the rectangle: 5
+Enter width of the rectangle: 10
+Perimeter of rectangle = 30.000000
+
+4. Write a C program to enter length and breadth of a rectangle and find its area.
+hint:
+Area of a rectangle is given by the formula -
+A=lw
+Where l is length and w is width of the rectangle.
+out put:
+Enter length of rectangle: 5
+Enter width of rectangle: 10
+Area of rectangle = 50.000000 sq. units
+
+5. Write a C program to enter radius of a circle and find its diameter, circumference and area.
+out put:
+Enter radius of circle: 10
+Diameter of circle = 20.00 units
+Circumference of circle = 62.79 units
+Area of circle = 314.00 sq. units
+
+6. Write a C program to enter length in centimeter and convert it into meter and kilometer.
+out put:
+Enter length in centimeter: 1000
+Length in Meter = 10.00 m
+Length in Kilometer = 0.01 km
+
+7. Write a C program to enter temperature in Celsius and convert it into Fahrenheit.
+out put:
+Enter temperature in Celsius: 100
+100 Celsius = 212.00 Fahrenheit
+
+8, Write a C program to enter temperature in Fahrenheit and convert to Celsius
+out put:
+Enter temperature in Fahrenheit: 205
+205.00 Fahrenheit = 96.11 Celsius
+
+9. Write a C program to convert days into years, weeks and days.
+Enter days: 373
+YEARS: 1
+WEEKS: 1
+DAYS: 1
+
+10. Write a C program to find power of any number x ^ y.
+Enter base: 5
+Enter exponent: 3
+5 ^ 3 = 125
+
+11. Write a C program to enter any number and calculate its square root.
+Enter any number to find square root: 144
+Square root of 144.00 = 12.00
+
+12. Write a C program to enter two angles of a triangle and find the third angle.
+output:
+Enter two angles of triangle: 60 30
+Third angle of the triangle = 90
+
+13. Write a C program to enter base and height of a right triangle and find its area.
+output:
+Enter base of the triangle: 10
+Enter height of the triangle: 15
+Area of the triangle = 75.00 sq. units
+
+14. Write a C program to calculate area of an equilateral triangle.
+output:
+Enter side of an equilateral triangle: 75
+Area of equilateral triangle = 2435.69 sq. units
+
+15. Write a C program to enter marks of five subjects and calculate total, average and percentage.
+output:
+Enter marks of five subjects: 
+95
+76
+85
+90
+89
+Total marks = 435.00
+Average marks = 87.00
+Percentage = 87.00
+
+16. Write a C program to enter P, T, R and calculate Simple Interest.
+output:
+Enter principle (amount): 1200
+Enter time: 2
+Enter rate: 5.4
+Simple Interest = 129.600006
+
+17.Write a C programme to find the square of the sum of two numbers.
+output:
+Enter first no = 4
+Enter second no = 2
+whole square of (4+2) = 36
+
+18.Write a C programme to find the square of a number.
