@@ -1,0 +1,206 @@
+Task 2: If else
+
+1. Write a C program to find maximum between two numbers.
+out:
+Enter two numbers: 10
+12
+12 is maximum
+
+2. Write a C program to find maximum between three numbers.
+out:
+Enter three numbers: 10
+50
+120
+Maximum among all three numbers = 120
+
+3. Write a C program to check whether a number is negative, positive or zero.
+out:
+Enter any number: 10
+Number is POSITIVE
+out:
+Enter any number: -1
+Number is NEGATIVE
+out:
+Enter any number: 0
+Number is neither POSITIVE nor NEGATIVE
+
+4. Write a C program to check whether a number is divisible by 5 and 11 or not.
+out:
+Enter any number: 55
+Number is divisible by 5 and 11
+
+5. Write a C program to check whether a number is even or odd.
+out:
+Enter any number to check it is even or odd: 11
+Number is Odd
+
+6. Write a C program to check whether a year is leap year or not.
+Logic:
+Input year from user. Store it in some variable say year.
+If a year is exactly divisible by 4 then it is leap year.
+out:
+Enter year : 2004
+LEAP YEAR
+
+7. Write a C program to check whether a character is alphabet or not.
+out:
+Enter any character: b
+Character is an ALPHABET.
+out:
+Enter any character: +
+Character is not an ALPHABET
+
+
+8. Write a C program to input any alphabet and check whether it is vowel or consonant.
+out:
+Enter any character: a
+'a' is Vowel.
+out:
+Enter any character: U
+'U' is Vowel.
+out:
+Enter any character: n
+'n' is Consonant.
+out:
+Enter any character: N
+'N' is Consonant.
+out:
+Enter any character: +
+'+' is not Alphabetical.
+
+
+9. Write a C program to input any character and check whether it is alphabet, digit or special character.
+out:
+Enter any character: a
+'a' is Alphabetical.
+out:
+Enter any character: U
+'U' is Alphabetical.
+out:
+Enter any character: 5
+'5' is digital number.
+out:
+Enter any character: $
+'$' is special character.
+out:
+Enter any character: +
+'+' is special character.
+
+10. Write a C program to check whether a character is uppercase or lowercase alphabet.
+out:
+Enter any character: C
+'C' is uppercase alphabet.
+out:
+Enter any character: c
+'C' is lower uppercase alphabet.
+out:
+Enter any character: 5
+'5' is not alphabet.
+
+11. write a C programme to input day number in a week and print the name of that day.
+out:
+Enter week number (1-7): 1
+Monday
+
+12. Write a C program to input month number and print number of days in that month.
+logic:
+January, March, May, July, August, October, December	31 days
+February	28/29 days
+April, June, September, November	30 days
+
+out:
+Enter month number (1-12): 12
+31 days
+
+13. Write a C programme to find the integer is positive or negative
+or neither positive nor negative.
+
+14. Write a C program to input angles of a triangle and check whether triangle is valid or not.
+hint: any triangle is zero considered or not valid
+if sum of all triagles must be 180
+output:
+Enter three angles of triangle:
+30
+60
+90
+Triangle is valid.
+
+15. Write a C program to input all sides of a triangle and check whether triangle is valid or not.
+output
+Enter three sides of triangle: 7
+4
+10
+Triangle is valid
+logic:
+A triangle is valid if sum of its two sides is greater than the third side. Means if a, b, c are three sides of a triangle. Then the triangle is valid if all three conditions are satisfied
+a + b > c
+a + c > b and
+b + c > a
+
+16. Write a C program to check whether the triangle is equilateral, isosceles or scalene triangle.
+output:
+Enter three sides of triangle: 30
+30
+30
+Equilateral triangle
+Logic:
+A triangle is said Equilateral Triangle, if all its sides are equal. If a, b, c are three sides of triangle. Then, the triangle is equilateral only if a == b == c.
+A triangle is said Isosceles Triangle, if its two sides are equal. If a, b, c are three sides of triangle. Then, the triangle is isosceles if either a == b or a == c or b == c.
+A triangle is said Scalene Triangle, if none of its sides are equal.
+
+
+17. Write a C program to find all roots of a quadratic equation.
+Enter values of a, b, c of quadratic equation (aX^2 + bX + c): 8 -4 -2
+Two real roots exists: 0.81 and -0.31
+
+
+
+18. Write a C program to calculate profit or loss.
+output:
+Enter cost price: 1000
+Enter selling price: 1500
+Profit = 500
+
+logic:
+Formula to calculate profit and loss
+Profit = S.P - C.P (Where S.P is Selling Price and C.P is Cost Price)
+Loss = C.P - S.P
+
+19. Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Total marks: 500. Each subject contains 100 marks
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+
+output:
+Enter five subjects marks: 95
+95
+97
+98
+90
+Percentage = 95.00
+Grade A
+
+20. Write a C program to input basic salary of an employee and calculate its Gross salary according to following:
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+out:
+Enter basic salary of an employee: 22000
+GROSS SALARY OF EMPLOYEE = 49500.00
+
+21. Write a C program to input electricity unit charges and calculate total electricity bill according to the given condition:
+For first 50 units Rs. 0.50/unit
+For next 100 units Rs. 0.75/unit
+For next 100 units Rs. 1.20/unit
+For unit above 250 Rs. 1.50/unit
+An additional surcharge of 20% is added to the bill
+
+out:
+Enter total units consumed: 150
+Electricity Bill = Rs. 120.00
+
